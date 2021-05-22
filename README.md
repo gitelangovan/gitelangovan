@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gitelangovan
-- 👀 I’m interested in Angular
-- 🌱 I’m currently learning Front End
+- 👀 Angular Developer
+- 🌱 Developing Front End Applications
 - 📫 Reach me - elangovan.dev@gamil.com
 
 <!---
