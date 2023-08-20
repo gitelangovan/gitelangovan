@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @gitelangovan
-- 👀 Angular Developer
-- 🌱 Developing Front End Applications
+- 👋 Hi, I am Elangovan Mathan
+- 👀 Full stack dev (Angular, SpringBoot, AWS, SQL)
 - 📫 Reach me - elangovan.dev@gamil.com
 
 <!---
