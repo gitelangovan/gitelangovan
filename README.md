@@ -1,5 +1,5 @@
 - 👋 Hi, I am Elangovan Mathan
-- 👀 Full stack dev (Angular, SpringBoot, AWS, SQL)
+- 👀 Full stack dev
 - 📫 Reach me - elangovan.dev@gamil.com
 
 <!---
